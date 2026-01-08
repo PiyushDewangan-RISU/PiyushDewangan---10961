@@ -1,13 +1,13 @@
-##Project P9 – Pattern Printing Tool
+## Project P9 – Pattern Printing Tool
 
-##Project Details
+## Project Details
 
 •Project No: P9
 •Project Title: Pattern Printing Tool
 •Topic: Numeric Pattern Logic
 •Technology Stack: C, VS Code, GitHub
 
-##Project Aim
+## Project Aim
 
 The aim of this project is to design a Pattern Printing Tool that generates different numeric patterns based on user input using nested loops, without using arrays or any additional storage.
 This project focuses on strengthening logical thinking and loop control in C programming.
@@ -34,10 +34,14 @@ This project focuses on strengthening logical thinking and loop control in C pro
 •Code Editor: VS Code
 •Version Control: GitHub
 
-##Author
+## Author
 
 •Name: Piyush Dewangan
+
 •Registration ID: RU-25-10961
+
 •Email - piyush.dewangan@rungta.org
+
 Section - H
+
 •Course: B.Tech – Computer Science & Engineering￼Enter
