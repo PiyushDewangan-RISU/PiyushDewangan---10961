@@ -13,25 +13,30 @@
 ## Project Aim
 
 The aim of this project is to design a Pattern Printing Tool that generates different numeric patterns based on user input using nested loops, without using arrays or any additional storage.
+
 This project focuses on strengthening logical thinking and loop control in C programming.
 
 ## How the Program Works
 
-1.The user enters the number of rows to be printed.
+1: Decide the number of rows to be printed.
 
-2.The program uses an outer loop to control the rows.
+2: Take the number of rows as input from the user.
 
-3.An inner loop is used to control the columns.
+3: Use an outer loop to control the rows.
 
-4.Loop counters determine which number to print.
+4: Use an inner loop to control the columns.
 
-5.Numbers are printed inside the inner loop.
+5: Use the loop counter to decide which number to print.
 
-6.After completing each row, the cursor moves to a new line.
+6: Print numbers inside the inner loop.
 
-7.The process repeats until all rows are printed.
+7: After each row, move to the next line.
 
-8.No array or extra memory is used.
+8: Repeat the inner loop for every row.
+
+9: Continue until all rows are printed.
+
+10: No array or extra storage is required.
 
 ## Expected Output
 •Displays numeric patterns on the console.
