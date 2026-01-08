@@ -1,7 +1,11 @@
 Pattern Logic Tool
+
 Project Title: Pattern Logic Tool
+
 Developer: Piyush Dewangan
+
 Roll No: RU-25-10961
+
 Project ID: P9
 
 📌 Project Overview
